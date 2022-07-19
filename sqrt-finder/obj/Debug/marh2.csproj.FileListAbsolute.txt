@@ -1,0 +1,8 @@
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\bin\Debug\marh2.exe.config
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\bin\Debug\marh2.exe
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\bin\Debug\marh2.pdb
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\obj\Debug\marh2.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\obj\Debug\marh2.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\obj\Debug\marh2.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\obj\Debug\marh2.exe
+C:\Users\muham\OneDrive\Documents\Visual Studio 2022\Codes\UniversityExam\marh2\obj\Debug\marh2.pdb
